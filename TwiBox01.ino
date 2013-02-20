@@ -15,7 +15,7 @@
 #define RIGHT_CMD 4
 
 // global variable
-int debug=1; //debug = 1 - start debug output
+int debug=1; //debug = 1 - start debug output in case we need it
 
 //char twi_messages[MSGS_NUM][MSG_LEN];
 String twis_messages[MSGS_NUM];
